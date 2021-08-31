@@ -1,0 +1,23 @@
+2021-08-31 [15:18:00] [Server thread/INFO]: Loading pocketmine.yml...
+2021-08-31 [15:18:00] [Server thread/INFO]: Loading server properties...
+2021-08-31 [15:18:00] [Server thread/INFO]: Selected English (eng) as the base language
+2021-08-31 [15:18:00] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.17.10
+2021-08-31 [15:18:00] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-08-31 [15:18:00] [Server thread/INFO]: Opening server on 0.0.0.0:33020
+2021-08-31 [15:18:00] [Server thread/INFO]: This server is running PocketMine-MP version 3.22.1
+2021-08-31 [15:18:00] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-08-31 [15:18:01] [Server thread/INFO]: Loading resource packs...
+2021-08-31 [15:18:01] [Server thread/NOTICE]: World "world" not found
+2021-08-31 [15:18:01] [Server thread/INFO]: Preparing world "world"
+2021-08-31 [15:18:01] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-08-31 [15:18:01] [Server thread/INFO]: Starting GS4 status listener
+2021-08-31 [15:18:01] [Server thread/INFO]: Setting query port to 33020
+2021-08-31 [15:18:01] [Server thread/INFO]: Query running on 0.0.0.0:33020
+2021-08-31 [15:18:01] [Server thread/INFO]: Default game type: Survival Mode
+2021-08-31 [15:18:01] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-08-31 [15:18:01] [Server thread/INFO]: Done (0.972s)! For help, type "help" or "?"
+2021-08-31 [15:18:01] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2021-08-31 [15:18:01] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.22.2 was released on Wed Aug 18 01:15:59 2021
+2021-08-31 [15:18:01] [Server thread/WARNING]: Details: https://github.com/pmmp/PocketMine-MP/releases/tag/3.22.2
+2021-08-31 [15:18:01] [Server thread/WARNING]: Download: https://github.com/pmmp/PocketMine-MP/releases/download/3.22.2/PocketMine-MP.phar
+2021-08-31 [15:18:01] [Server thread/WARNING]: ----- -------------------------- -----
